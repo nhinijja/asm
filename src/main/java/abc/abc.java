@@ -9,5 +9,5 @@ package abc;
  * @author DELL
  */
 public class abc {
-    
+    public int ams;
 }
